@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Chuks' GitHub stats](https://github-readme-stats.vercel.app/api?username=jdborges187&show_icons=true&theme=dark)](https://github.com/jdborges187/github-readme-stats)
+I am a full stack software engineer with experience developing dynamic and user-friendly websites using WordPress, PHP, and JavaScript. My background in real estate has given me a deep understanding of the industry and how to create web applications that cater to the needs of real estate professionals and clients.
+
+[![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdborges187&show_icons=true&theme=dark)](https://github.com/jdborges187/github-readme-stats)
 
 
 <!--
